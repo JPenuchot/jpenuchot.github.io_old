@@ -1,5 +1,6 @@
 *{
 	font-family: 'Open Sans', sans-serif;
+	align-content: center;
 }
 
 /*	Represents the tag in front of a text field of a form. */
@@ -9,14 +10,4 @@
 
 ul{
 	list-style-type: upper-roman;
-}
-
-/*	Impair element of a list. */
-li.elmt1{
-	color: #C0C0C0;
-}
-
-/*	Pair element of a list. */
-li.elmt0{
-	color: #A0A0A0;
 }
