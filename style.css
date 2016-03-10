@@ -1,0 +1,22 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*	Represents the tag in front of a text field of a form. */
+.fieldTag{
+	display: inline;
+}
+
+ul{
+	list-style-type: upper-roman;
+}
+
+/*	Impair element of a list. */
+li.elmt1{
+	color: #C0C0C0;
+}
+
+/*	Pair element of a list. */
+li.elmt0{
+	color: #A0A0A0;
+}
