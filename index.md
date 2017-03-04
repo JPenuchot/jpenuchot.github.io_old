@@ -1,20 +1,24 @@
 # ~/
 
+[Curriculum Vitae](./CV.md)
+
 ##	My projects
 
 ###	Code
+
+[~/GitHub](https://github.com/JPenuchot)
 
 -	[CUDA Samples](https://github.com/JPenuchot/CUDA_Samples)
 
 	Sample code for CUDA, comparing a method to approximate a decimal value of Pi using CPU or GPU.
 
--	[Memechecker](https://github.com/JPenuchot/MemeChecker)
+-	[MemeChecker](https://github.com/JPenuchot/MemeChecker)
 
 	Python script that matches images across specified databases.
 
 -	[RaspiSequencer](https://github.com/JPenuchot/RaspiSequencer) [WIP]
 
-	MIDI sequencer written in C++ using rtMIDI for low-latency sequencing with an interface made for live performance
+	MIDI sequencer written in C++ using rtMIDI for low-latency sequencing with an interface made for live performance.
 
 -	[The Anarchist Cookbook](https://github.com/JPenuchot/The-Anarchist-Cookbook)
 
@@ -29,12 +33,20 @@
 
 -	[MPSA](https://www.facebook.com/mpsalove/)
 
-	Techno/House parties across Paris
+	Techno/House parties across Paris.
 
 -	[Pirate Jam](https://www.facebook.com/profile.php?id=568850393195804)
 
-	X sports contest, concerts and after party in Lacanau Océan
+	X sports contest, concerts and after party in Lacanau Océan.
 
--	Deepspace Kicks and Celestial Dreams (Staff member) : [Facebook](https://www.facebook.com/groups/deepspacedreams/) - [Website](https://deepspacedreams.github.io/)
+-	[Deepspace Kicks and Celestial Dreams](https://deepspacedreams.github.io/) (Staff member) : [Facebook](https://www.facebook.com/groups/deepspacedreams/) - [Website](https://deepspacedreams.github.io/)
 
-	Ambient, experimental music digging group
+	Ambient, experimental music digging group.
+
+-	Live music streams from my bedroom
+	*	[YouTube](https://www.youtube.com/channel/UCoON2oshHACW_GcWewBR0Rw)
+	*	[Beam](https://beam.pro/JPenuchot)
+	*	[Twitch](https://twitch.tv/JPenuchot)
+	*	[Archives (personal server)](http://a.penuch.it/streams/)
+
+-	[SoundCloud uploads](https://soundcloud.com/jpenuchot/tracks)
