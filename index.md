@@ -1,4 +1,5 @@
 # ~/
 
-[Curriculum Vitae](./CV.md)\
+[Curriculum Vitae](./CV.md)
+
 [My Projects](./MyProjects.md)
