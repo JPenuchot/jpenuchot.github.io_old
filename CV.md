@@ -1,9 +1,9 @@
-# ~/CurriculumVitae
+#	[~/](./index.md)CurriculumVitae
 
 ##	Studies
 
 -	Université Paris-Sud // Paris-Sud University
-	-	Magistère en Informatique // Excellence class in Computer Science
+	-	Magistère en Informatique // Excellence class in Computer Science\
 		Since 2017
 	
 	-	L3 Informatique // 3rd year in Computer Science
@@ -40,32 +40,32 @@
 
 Most of my personal projects are available from my [GitHub profile](https://github.com/JPenuchot).
 
--	CUDA
-	Since 2012
+-	CUDA\
+	Since 2012\
 	See [CUDASamples](https://github.com/JPenuchot/CUDA_Samples)
 
--	C/C++
-	Since 2009
+-	C/C++\
+	Since 2009\
 	Rather solid bases, strengthened by lessons in Computer Architecture at Paris-Sud University
 
--	OCaml
-	During my 2nd and 3rd years at Paris-Sud University
+-	OCaml\
+	During my 2nd and 3rd years at Paris-Sud University\
 	Along with Advanced Functional Programming
 
--	Java
-	During my 2nd year at Paris-Sud University
+-	Java\
+	During my 2nd year at Paris-Sud University\
 	Along with Software Engineering courses
 
--	C# at 11 y/o
+-	C# at 11 y/o\
 	Only a first approach
 
 ##	Past jobs
 
--	Software Developper at [FullScale Labs](http://www.fullscale-labs.com/index.php/)
+-	Software Developper at [FullScale Labs](http://www.fullscale-labs.com/index.php/)\
 	July 2015
 
--	Waiter at l'Ermitage
+-	Waiter at l'Ermitage\
 	2015 - Now
 
--	Warehouseman (Summer job)
+-	Warehouseman (Summer job)\
 	June & July 2016
